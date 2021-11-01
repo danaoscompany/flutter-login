@@ -1,0 +1,14 @@
+{
+    "login": "Masuk",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "text1": "Silahkan login sebelum melanjutkan",
+    "text2": "Ayo kita mulai!",
+    "text3": "Selamat datang",
+    "text4": "Masukkan detail login Anda",
+    "text5": "Mohon lengkapi data",
+    "text6": "Kesalahan pada koneksi:",
+    "text7": "Sedang masuk...",
+    "text8": "Kata sandi salah",
+    "text9": "Pengguna tidak ditemukan"
+}
